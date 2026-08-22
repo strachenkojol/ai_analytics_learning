@@ -14,6 +14,11 @@ An automated data pipeline written in Python that ingests raw customer support t
 - **Document Export:** `python-docx`
 - **Environment Management:** `python-dotenv`
 
+  ## 📄 Sample Executive Report
+
+View an example of the automatically generated executive report created by the pipeline:
+👉 **[View Sample Executive Report (Google Docs)](https://docs.google.com/document/d/1HVBiMwFlnykW_pzzc8cLZadZThGHCIQgAOTmZZ2hSDs/edit?usp=sharing)**
+
 ## 📦 Installation & Setup
 
 1. **Clone the repository:**
