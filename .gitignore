@@ -1,0 +1,6 @@
+
+.env
+.venv/
+data/tickets.csv
+support_report.docx
+__pycache__/
